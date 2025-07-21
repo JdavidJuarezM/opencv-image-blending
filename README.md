@@ -1,3 +1,4 @@
+# Opencv-image-blending
 Blends two images using a weighted sum with OpenCV.
 
 This script loads two input images and combines them into a single image
